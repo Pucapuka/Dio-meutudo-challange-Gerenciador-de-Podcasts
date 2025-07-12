@@ -10,17 +10,17 @@ gestor-de-podcasts/
 ├── node_modules/
 ├── src/
 │   ├── controllers/
-│   │   └── podcast.controller.ts
+│   │   └── podcast-controller.ts
 │   ├── data/
 │   │   └── podcasts.json
 │   ├── interfaces/
-│   │   └── podcast.interface.ts
+│   │   └── podcast-interface.ts
 │   ├── services/
-│   │   └── podcast.service.ts
+│   │   └── podcast-service.ts
 │   ├── utils/
-│   │   └── http.utils.ts
+│   │   └── http-utils.ts
 │   ├── routes/
-│   │   └── podcast.routes.ts
+│   │   └── podcast-routes.ts
 │   └── server.ts
 ├── .env
 ├── .gitignore

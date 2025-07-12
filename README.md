@@ -37,7 +37,7 @@ gestor-de-podcasts/
 
 ``` bash
 
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/Pucapuka/Dio-meutudo-challange-Gerenciador-de-Podcasts.git
 ```
 ### Instale as dependências:
 
